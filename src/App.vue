@@ -3,7 +3,7 @@
     <q-banner inline-actions class="text-white bg-red q-banner" v-if="rejectMsg !== null">
       Не удалось отгрузить список.
       <template v-slot:action>
-        <q-btn flat color="white" label="Повторить попытку" @click="reshelf" />
+        <q-btn flat color="white" label="Повторить попытку" @click="location.reload()" />
       </template>
     </q-banner>
 
