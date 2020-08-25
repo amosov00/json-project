@@ -2,7 +2,7 @@
 
 in this project I used the Axios library to load photos and captions into the slider
 
-Demo - n92650l3.beget.tech
+Demo - http://n92650l3.beget.tech/
 
 ## Project setup
 ```
